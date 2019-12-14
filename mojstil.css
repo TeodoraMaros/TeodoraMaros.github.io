@@ -11,5 +11,29 @@ body {
 
 h3{
     color:#660000;
-
+   
 }
+
+
+
+.tablica {
+    border: 2px solid ;
+    border-color: rgb(1, 1, 49);
+    border-collapse: collapse;
+  }
+
+
+  .title {
+    height: 2em;
+    margin-left: 5em;
+
+  }
+  
+  .dot {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(68, 63, 63);
+    border-radius: 50%;
+    display: inline-block;
+    
+  }
