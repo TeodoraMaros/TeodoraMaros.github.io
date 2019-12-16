@@ -23,11 +23,6 @@ h3{
   }
 
 
-  .title {
-    height: 2em;
-    margin-left: 5em;
-
-  }
   
 
 #poveznice {
@@ -43,5 +38,5 @@ h3{
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  margin-left: 80px;
+  margin-left: 5em;
 }
